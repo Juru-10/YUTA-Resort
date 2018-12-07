@@ -1,0 +1,31 @@
+h1{
+  float: left;
+}
+nav{
+  float: right;
+}
+ul{
+  display: inline-block;
+}
+#home{
+  background-image: url(https://gos3.ibcdn.com/e2468dc6195f11e5826c001ec9b85d13.png);
+  background-repeat: repeat;
+  background-size: cover;
+  height: 1000px;
+  color: white;
+}
+#about{
+
+}
+#services,#components,#pictures{
+  display: flex;
+}
+#components {
+
+}
+#pictures {
+
+}
+#contact{
+
+}
